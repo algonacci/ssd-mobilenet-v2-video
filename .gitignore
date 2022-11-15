@@ -1,3 +1,9 @@
+ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/checkpoint/
+ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/saved_model/
+ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8/checkpoint/
+ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8/saved_model/
+stb_out.avi
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
